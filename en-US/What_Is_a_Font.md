@@ -234,7 +234,7 @@ applied consistently to the type design with some deviations for particular lett
 ‘S’, ‘C’ and ‘Z’ (e.g. a type with horizontal serifs for all letters will often have s, c and z to
 have vertical serifs).
 
-There is a urban legend asserting that serif types are easier to read than sans-serifs &ndash; it is
+There is an urban legend asserting that serif types are easier to read than sans-serifs &ndash; it is
 [a sole myth](http://asserttrue.blogspot.se/2013/01/the-serif-readability-myth.html), until further
 notice.
 
@@ -254,7 +254,7 @@ large brackets of [Times New Roman]) or chunky crisp (absent brackets of [Arvo])
 
 Also called mechanistic or Egyptian type, slabs are thick, block-like serifs. Slab serifs don’t use
 brackets. Generally speaking, type design with such serifs are seen to have less contrast in their
-glyphs &ndash; [Rockwell], [Courier] or [American typewriter] reflect that.
+glyphs &ndash; [Rockwell], [Courier] and [American typewriter] reflect that.
 
 It may be safe to assume that slab serifs have been used to add some ornament or rhythm to an
 otherwise no-contrast type design. But this is not an absolute rule.
